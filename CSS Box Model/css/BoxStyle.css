@@ -1,0 +1,19 @@
+
+.row {
+	border : 2px solid gray;
+	text-align:center;
+}
+
+.BB{
+	background-color:#FE8D3A;
+}
+.FB{
+	background-color:#00A4FF;
+}
+.LC{
+	background-color:#FEEC36;
+}
+h1{
+	text-decoration: underline;
+}
+
